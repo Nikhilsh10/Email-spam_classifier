@@ -1,0 +1,9 @@
+python -m venv myenv
+Set-ExecuteionPolicy RemoteSigned
+ .\myenv\Scripts\activate
+ pip install streamlit scikit-learn
+
+ pip freeze > requirement.text
+
+ git init
+ git add
