@@ -1,0 +1,28 @@
+# Python virtual environment
+myenv/
+env/
+.venv/
+venv/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit configurations & secrets
+.streamlit/
+
+# OS-specific temporary files
+.DS_Store
+Thumbs.db
+temp.txt
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
