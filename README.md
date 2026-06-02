@@ -33,7 +33,7 @@ The backend leverages a classic text classification pipeline:
 ```text
 ├── .gitignore            # Ignored caches and local settings
 ├── app.py                # Premium Streamlit Dashboard application
-├── requirement.text      # Project dependencies list
+├── requirements.txt     # Project dependencies list
 ├── spam.pkl              # Pre-trained Multinomial Naive Bayes model
 ├── vectorizer.pkl        # Fitted CountVectorizer vocabulary
 └── README.md             # Project documentation (this file)
@@ -63,9 +63,9 @@ source myenv/bin/activate
 
 ### 3. Install Dependencies
 ```bash
-pip install -r requirement.text
+pip install -r requirements.txt
 ```
-*(Note: If `requirement.text` is not found, you can run `pip install streamlit scikit-learn numpy pandas altair`)*
+*(Note: If `requirements.txt` is not found, you can run `pip install streamlit scikit-learn numpy pandas altair`)*
 
 ### 4. Run the Streamlit Dashboard
 ```bash
