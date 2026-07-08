@@ -5,7 +5,7 @@
 [![Scikit-Learn] (https://img.shields.io/badge/Scikit--Learn-1.5.2-orange.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
 
-An interactive Machine Learning dashboard to classify emails as **Spam** or **Ham (Legitimate)**, complete with word-level explanation capabilities (X-Ray Mode) and a model insights explorer.
+An interactive Machine Learning dashboard to classify emails as **Spam** or **Ham (Legitimate)**, complete with word-level explanation capabilities (X-Ray Mode) and a model insights explorer. 
 
 ---
 
